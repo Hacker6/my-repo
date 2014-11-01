@@ -9,8 +9,9 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+    Heo thi i megmin
     </div>
+        <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
     </form>
 </body>
 </html>
